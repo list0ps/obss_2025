@@ -3,3 +3,6 @@
 # Guacamole
 ## Ingredients 
 ## Instructions 
+
+changes on terminal 1, first copy
+
